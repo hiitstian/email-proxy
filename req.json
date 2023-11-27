@@ -1,0 +1,10 @@
+{
+    "from" : "jinguanwen@huamei2001.com",
+    "password" : "12345678Tan",
+    "to" : ["tantian@huamei2001.com"],
+    "smtp_host": "smtp.mxhichina.com",
+    "smtp_port" : "25",
+    "subject":"test email subject3",
+    "mime":"MIME-version: 1.0;\nContent-Type: text/html; charset=\"UTF-8\";\n",
+    "body":"<html><body><h2>test email body</h2></body></html>"
+}

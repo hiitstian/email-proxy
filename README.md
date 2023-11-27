@@ -1,0 +1,1 @@
+Minimal proxy for sending emails

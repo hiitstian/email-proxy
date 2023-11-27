@@ -1,0 +1,2 @@
+2023/11/17 11:55:03 [MAIL-PROXY][Info] Starting mail-proxy service
+2023/11/17 11:55:03 Mail-proxy starting at port 9004
